@@ -13,6 +13,7 @@ Benefits:
 Convenience: Get answers to your questions quickly and easily without needing to search through multiple sources.
 Informative: Receive comprehensive and informative responses that address your query comprehensively.
 Accessible: This chatbot can be used for various purposes, from learning new things to getting help with specific tasks.
+
 2. Creative Image Generation:
 
 Ever wished you could turn your ideas into stunning visuals? This image generation app harnesses Gemini's creativity to bring your imagination to life. Here's how it works:
